@@ -52,9 +52,11 @@ The PowerPoint slides explaining [How to Build an IoT Connector in 10 Minutes](d
 
 # TODO
 
+- Add startup options for Raspberry Pi
 - Add mock sensor data
 - Add instructions on setting up Azure IoT central
 - Add instructions on which tabs in the flow to use
 - Add instructions on setting up with globally installed Node-RED
 - Add tests
+- Add photo + description of car
 - Add HTTP authentication?
