@@ -1,9 +1,12 @@
-# Warning
+# Warnings
 
-By default, the Node-RED editor is not secured - anyone who can access its IP address can access the editor and deploy
-changes.
+- By default, the Node-RED editor is not secured - anyone who can access its IP address can access the editor and deploy
+  changes.
 
-This is only suitable if you are running on a trusted network.
+  This is only suitable if you are running on a trusted network.
+
+- The [Azure IoT Hub nodes](https://www.npmjs.com/package/node-red-contrib-azure-iot-hub) are not developed by
+  Microsoft. The package is not maintained and contains several vulnerabilities. Use at your own risk.
 
 
 # Prerequisites
@@ -39,7 +42,6 @@ This is only suitable if you are running on a trusted network.
 
 # TODO
 
-- Add warning regarding IoT Hub vulnerabilities
 - Add mock sensor data
 - Add presentation
 - Add tests
