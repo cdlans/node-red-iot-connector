@@ -39,9 +39,8 @@ This is only suitable if you are running on a trusted network.
 
 # TODO
 
-- Check package.json
-- Update license in package.json
 - Add warning regarding IoT Hub vulnerabilities
 - Add mock sensor data
 - Add presentation
+- Add tests
 - Add HTTP authentication?

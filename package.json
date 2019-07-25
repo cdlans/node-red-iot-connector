@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdlans/zuehlke-meetup-node-red.git"
+    "url": "git+https://github.com/cdlans/node-red-iot-connector.git"
   },
   "author": "Casper Lans",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdlans/zuehlke-meetup-node-red/issues"
+    "url": "https://github.com/cdlans/node-red-iot-connector/issues"
   },
-  "homepage": "https://github.com/cdlans/zuehlke-meetup-node-red#readme",
+  "homepage": "https://github.com/cdlans/node-red-iot-connector#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
