@@ -39,10 +39,22 @@
   $ npm start
   ```
 
+- Point your browser to http://localhost:1880 to open the Node-RED editor. Replace `localhost` with the address of the
+  machine running Node-RED, if you are not running Node-RED on your local machine.
+
+- Point your browser to http://localhost:1880/ui to open the Node-RED dashboard.
+
+
+# Presentation
+
+The PowerPoint slides explaining [How to Build an IoT Connector in 10 Minutes](doc/Node-RED-IoT-connector.pptx). 
+
 
 # TODO
 
 - Add mock sensor data
-- Add presentation
+- Add instructions on setting up Azure IoT central
+- Add instructions on which tabs in the flow to use
+- Add instructions on setting up with globally installed Node-RED
 - Add tests
 - Add HTTP authentication?
